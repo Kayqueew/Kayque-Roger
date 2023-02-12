@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Coffstack">
-<h1 align = "justify"> Olá, eu sou o Kayque roger!</h1> 
+<h1 align = "justify"> Olá, eu sou o Kayque Roger!</h1> 
 <p align = "justify">Sou Desenvolvedor Front End e estou em buscar da minha primeira oportunidade como Dev.</p>
 
 No momento estou focado em ampliando meus conhecimentos em React e TypeScript.
