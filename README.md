@@ -9,7 +9,7 @@ No momento estou focado em ampliando meus conhecimentos em React e TypeScript.
   ##  Tecnologias & Conhecimentos
   
  <div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontgent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,8 +22,8 @@ No momento estou focado em ampliando meus conhecimentos em React e TypeScript.
 
 <div>
   <a href="https://github.com/kayqueew">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayqueew&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayqueew&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kayqueew&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayqueew&layout=compact&langs_count=7&theme=synthwave"/>
 </div> 
   
   ##
