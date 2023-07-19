@@ -2,7 +2,7 @@
 <h1 align = "justify"> Olá, eu sou o Kayque Roger!</h1> 
 <p align = "justify">Sou Desenvolvedor Front End e estou em buscar da minha primeira oportunidade como Dev.</p>
 
-No momento estou focado em ampliando meus conhecimentos em React e TypeScript.
+No momento estou focado em ampliando meus conhecimentos em React, NextJs e TypeScript.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayque-roger-b92990232/)](https://www.linkedin.com/in/kayque-roger-b92990232/)
 
